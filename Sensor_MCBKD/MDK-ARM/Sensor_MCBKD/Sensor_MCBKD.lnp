@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"sensor_mcbkd\startup_stm32f103xb.o"
+"sensor_mcbkd\main.o"
+"sensor_mcbkd\stm32f1xx_it.o"
+"sensor_mcbkd\stm32f1xx_hal_msp.o"
+"sensor_mcbkd\stm32f1xx_hal_gpio_ex.o"
+"sensor_mcbkd\stm32f1xx_hal_i2c.o"
+"sensor_mcbkd\stm32f1xx_hal.o"
+"sensor_mcbkd\stm32f1xx_hal_rcc.o"
+"sensor_mcbkd\stm32f1xx_hal_rcc_ex.o"
+"sensor_mcbkd\stm32f1xx_hal_gpio.o"
+"sensor_mcbkd\stm32f1xx_hal_dma.o"
+"sensor_mcbkd\stm32f1xx_hal_cortex.o"
+"sensor_mcbkd\stm32f1xx_hal_pwr.o"
+"sensor_mcbkd\stm32f1xx_hal_flash.o"
+"sensor_mcbkd\stm32f1xx_hal_flash_ex.o"
+"sensor_mcbkd\stm32f1xx_hal_exti.o"
+"sensor_mcbkd\stm32f1xx_hal_spi.o"
+"sensor_mcbkd\stm32f1xx_hal_tim.o"
+"sensor_mcbkd\stm32f1xx_hal_tim_ex.o"
+"sensor_mcbkd\stm32f1xx_hal_uart.o"
+"sensor_mcbkd\system_stm32f1xx.o"
+"sensor_mcbkd\my_nrf24.o"
+--strict --scatter "Sensor_MCBKD\Sensor_MCBKD.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Sensor_MCBKD.map" -o Sensor_MCBKD\Sensor_MCBKD.axf
