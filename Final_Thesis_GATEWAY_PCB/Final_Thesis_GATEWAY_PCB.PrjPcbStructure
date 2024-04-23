@@ -1,6 +1,0 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Lora|SchDesignator=U_Lora|FileName=Lora.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Lora.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Screen|SchDesignator=U_Screen|FileName=Screen.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Screen.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_SIM|SchDesignator=U_SIM|FileName=SIM.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=SIM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
